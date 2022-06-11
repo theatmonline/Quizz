@@ -1,0 +1,10 @@
+body{
+    background-image: url(download.jfif);
+    background-position: center;
+    background-position: cover;
+    height: 100vh;
+
+}
+p{
+    padding: 8px;
+}
